@@ -2,9 +2,10 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node Server.js",
+    "start":"node Server.js"
   },
   "author": "Abhishek singh",
   "license": "ISC",
